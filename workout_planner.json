@@ -1,0 +1,14 @@
+{
+    "Jump squats": {
+        "duration": 20,
+        "difficulty": "easy"
+    },
+    "Running": {
+        "duration": 30,
+        "difficulty": "hard"
+    },
+    "Backflips": {
+        "duration": 5,
+        "difficulty": "hard"
+    }
+}
